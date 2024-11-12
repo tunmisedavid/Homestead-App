@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Homestead-App/static/css/main.cc1b2ac7.css",
+    "main.js": "/Homestead-App/static/js/main.ebd5de42.js",
+    "static/media/Rectangle 752.png": "/Homestead-App/static/media/Rectangle 752.0a79a65562fa87e9fbf4.png",
+    "index.html": "/Homestead-App/index.html",
+    "main.cc1b2ac7.css.map": "/Homestead-App/static/css/main.cc1b2ac7.css.map",
+    "main.ebd5de42.js.map": "/Homestead-App/static/js/main.ebd5de42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc1b2ac7.css",
+    "static/js/main.ebd5de42.js"
+  ]
+}
